@@ -20,5 +20,5 @@ repositories {
 
 dependencies {
     implementation 'com.facebook.react:react-native:+'
-    implementation 'com.fyber:fyber-sdk:8.22.1'
+    implementation 'com.fyber:fyber-sdk:8.22.0'
 }
